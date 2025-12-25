@@ -20,7 +20,16 @@
 
 <img width="1350" height="494" alt="image" src="https://github.com/user-attachments/assets/0ae16710-cf15-44e5-b6c3-0879ce73dbd4" />
 
+## Load dataset in Power BI using R script
+### R script 
 
+<img width="1614" height="719" alt="image" src="https://github.com/user-attachments/assets/c826812e-e841-4778-b5e5-725a1edfab9c" />
+
+### Dataset view
+
+<img width="1275" height="998" alt="image" src="https://github.com/user-attachments/assets/61d79550-c008-46e2-adf3-48ff1984f9e5" />
+
+### 
 
 #### Connect Power BI with R
 
@@ -43,7 +52,15 @@
 
 
 <img width="1462" height="972" alt="image" src="https://github.com/user-attachments/assets/b5f0ed97-a5c3-41b1-970a-eb1ecc266d31" />
+####  Connection Power BI with Python
 
+##### Choose Python scripting in script option
+
+
+<img width="1421" height="972" alt="image" src="https://github.com/user-attachments/assets/1a4df931-953e-42b3-a696-3d9007fbab34" />
+
+
+#####
 
 
 
